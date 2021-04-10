@@ -1,0 +1,594 @@
+{
+  "record_count": 5,
+  "records": {
+    "page": [
+      
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site 01 page",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      },
+      {
+        "body": "About This Site This site is used for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to post. This allows filtering of blog posts from regular pages.",
+        "external_id": "261733cee3ca9c280320efc0d79ad8566ddbb9a9",
+        "sections": [
+          "About This Site"
+        ],
+        "title": "About This Site",
+        "updated_at": "2015-08-25T06:40:27Z",
+        "image": "",
+        "type": "page",
+        "url": "http://crawler-demo-site.herokuapp.com/about.html",
+        "popularity": 1,
+        "published_at": "2017-06-28T06:40:31Z",
+        "info": "",
+        "_index": "crawled",
+        "_type": "page",
+        "_score": 0.0057682088,
+        "_version": null,
+        "_explanation": null,
+        "sort": null,
+        "highlight": {
+          "body": "for demonstrating the Swiftype Crawler. As you can see from the source code of this page, it has a st:type meta tag with a value of page as opposed to <em>post</em>. This allows filtering of blog posts from regular pages."
+        },
+        "id": "5025a3046052f6b65000000a"
+      }
+    ]
+  },
+  "info": {
+    "page": {
+      "query": "post",
+      "current_page": 1,
+      "num_pages": 1,
+      "per_page": 20,
+      "total_result_count": 5,
+      "facets": {}
+    }
+  },
+  "errors": {}
+}
