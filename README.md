@@ -1,9 +1,14 @@
-
 # Chakra Yoga Project Report
 
 **Introduction:**
 
 The main idea is to aware people about yoga and my website’s yoga instructors help you to expand your yoga practice, improve your headstands, and unwind for the day at Chakra Yoga Studio. Instructors combine a variety of classes and yoga variations to make you feel calm and energetic right away. Instructors remain committed to assisting beginners, intermediates and experts in maintaining a healthy and productive practice for the rest of their lives. We don't just teach yoga; we provide the whole package.
+
+![alt text](screenshots/01.png)
+
+![alt text](screenshots/02.png)
+
+![alt text](screenshots/03.png)
 
 **Inspiration:**
 
@@ -78,17 +83,20 @@ The main idea is to aware people about yoga and my website’s yoga instructors 
 - Handlebars: https://stackoverflow.com/questions/12331077/does-handlebars-js-replace-newline-characters-with-br#:~:text=6%20Answers&text=By%20inserting%20three%20braces%20instead,by%20a%20%7B%7Bexpression%7D%7D%20.
 - Pagination: https://www.youtube.com/watch?v=mslD-bpvjiU&t=113s
 - Boilerplate: https://html5boilerplate.com/
+
 4. Tools: Figma, Intillij IDEA, Adobe illustrator, Adobe photoshop, Open street map
 
 **Appendices:**
 
- 1. Mockups:
- - mockup-home.png
- - mockup-classes.png
- - mockup-articles.png
- - mockup-pricing.png
- 
+1.  Mockups:
+
+- mockup-home.png
+- mockup-classes.png
+- mockup-articles.png
+- mockup-pricing.png
+
 2. Wireframes:
+
 - Desktop-Home.jpg
 - Desktop-Classes.jpg
 - Desktop-Article.jpg
@@ -103,4 +111,3 @@ The main idea is to aware people about yoga and my website’s yoga instructors 
 3. Sitemap:
 
 ![sitemap](https://github.com/gshudhanshu/Chakra-Yoga/blob/master/img/report%20data/sitemap.jpg)
-
